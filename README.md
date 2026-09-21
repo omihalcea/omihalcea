@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ **Nom/Edat**
 - **Octavian Mihalcea**
-- **21 anys**
+- **22 anys**
 
 ##  **Llenguatges de Programació**
 - Python 🐍
